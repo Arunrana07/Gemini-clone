@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda:wght@400;800&display=swap');
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font: Outfit;
+}
+#root{
+  min-height: 100vh;
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
